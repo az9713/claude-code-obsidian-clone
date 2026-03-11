@@ -2,7 +2,7 @@
 
 A local-first, Obsidian-inspired desktop note-taking application built with Electron, React, and CodeMirror 6. Write in Markdown, navigate via wiki-links, visualize connections in a graph view, and search your entire vault — all without a network connection.
 
-![Nexus Notes screenshot placeholder](docs/screenshot.png)
+![Nexus Notes](https://github.com/user-attachments/assets/8a7397b6-b007-4a1a-8b2c-5bc02ed97608)
 
 ---
 
