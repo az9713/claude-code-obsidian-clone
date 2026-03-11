@@ -1,0 +1,14 @@
+node_modules/
+dist/
+out/
+.DS_Store
+Thumbs.db
+*.log
+*.env
+.env.*
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.ignore/
